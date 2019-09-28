@@ -93,7 +93,7 @@ Please fill this form. We'll get back to you as soon as possible!
   form.addEventListener('submit', e => {
     e.preventDefault()
     fetch(scriptURL, { method: 'POST', body: new FormData(form)})
-      .then(response =>  { console.log('Success!', response); window.location.href="thanks.html";} )
+      .then(response =>  { console.log('Success!', response); window.location.href="thankyou.html";} )
       .catch(error => console.error('Error!', error.message))
   })
     
