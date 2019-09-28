@@ -89,12 +89,10 @@ Please fill this form. We'll get back to you as soon as possible!
 <script>
   const scriptURL = 'https://script.google.com/macros/s/AKfycbxlu2ySDgcADTr6gpyRkwSJza_9Dom8p-W9XjV7jaalRnuxMw/exec'
   const form = document.forms['submit-to-google-sheet']
-form.validate({
-  onfocusout: false
-});
+
 form.addEventListener('submit', e => {
 e.preventDefault()  
-    e.stopImmediatePropagation();
+e.stopImmediatePropagation();
 fetch(scriptURL, { method: 'POST', body: new FormData(form)})
 .then(response => { console.log('Success!', response); window.location.href="thankyou.html";} )
 .catch(error => { console.error('Error!', error.message); window.location.href="errorform.html";} )
