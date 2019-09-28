@@ -69,24 +69,7 @@
 <p style="font-size:20px"><b>
   
   
-  
-  <form name="submit-to-google-sheet">
-  <input name="email" type="email" placeholder="Email" required>
-  <button type="submit">Send</button>
-</form>
-
-<script>
-  const scriptURL = 'https://script.google.com/macros/s/AKfycbxlu2ySDgcADTr6gpyRkwSJza_9Dom8p-W9XjV7jaalRnuxMw/exec'
-  const form = document.forms['submit-to-google-sheet']
-
-  form.addEventListener('submit', e => {
-    e.preventDefault()
-    fetch(scriptURL, { method: 'POST', body: new FormData(form)})
-      .then(response => console.log('Success!', response))
-      .catch(error => console.error('Error!', error.message))
-  })
-</script>
-  
+Please fill this form.
   
   </b>
             </p>
@@ -94,7 +77,34 @@
           </div>
         </div>
         <div class="col-lg-6">
-    <p style="font-size:20px">No, you can use any media player you want. Most people use Spotify because they want to use Snip/Tuna with.
+    <p style="font-size:20px">
+      
+        
+  <form name="submit-to-google-sheet">
+  <input name="email" type="email" placeholder="Email" required>
+    <input name="facebook" type="text" placeholder="@facebook" required>
+    <input name="instagram" type="text" placeholder="@instagram" required>
+  <button type="submit">Send</button>
+    
+    
+</form>
+
+<script>
+  const scriptURL = 'https://script.google.com/macros/s/AKfycbxlu2ySDgcADTr6gpyRkwSJza_9Dom8p-W9XjV7jaalRnuxMw/exec'
+  const form = document.forms['submit-to-google-sheet']
+
+form.addEventListener('submit', e => {
+e.preventDefault()
+fetch(scriptURL, { method: 'POST', body: new FormData(form)})
+.then(response => { console.log('Success!', response); window.location.href="thankyou.html";} )
+.catch(error => { console.error('Error!', error.message); window.location.href="errorform.html";} )
+})
+    
+    
+  })
+</script>
+  
+      
             </p>
           
           </div>
