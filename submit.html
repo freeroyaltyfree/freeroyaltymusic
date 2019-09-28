@@ -93,7 +93,8 @@ form.validate({
   onfocusout: false
 });
 form.addEventListener('submit', e => {
-e.preventDefault()
+e.preventDefault()  
+    e.stopImmediatePropagation();
 fetch(scriptURL, { method: 'POST', body: new FormData(form)})
 .then(response => { console.log('Success!', response); window.location.href="thankyou.html";} )
 .catch(error => { console.error('Error!', error.message); window.location.href="errorform.html";} )
