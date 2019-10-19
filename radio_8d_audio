@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head> 
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>Free Royalty Free Music - Get Your Free License Today !</title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+  <!-- Custom fonts for this template -->
+  <link href="https://fonts.googleapis.com/css?family=Catamaran:100,200,300,400,500,600,700,800,900" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Lato:100,100i,300,300i,400,400i,700,700i,900,900i" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <link href="css/one-page-wonder.min.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+  
+
+  <!-- Navigation -->
+  <nav class="navbar navbar-expand-lg navbar-dark navbar-custom fixed-top">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">Royalty Free Music</a>
+      <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="faq.html"><br>&#707; F.A.Q</b></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="playlists.html"><br>&#707; Spotify.YT Playlists</b></a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <header class="masthead text-center text-white">
+    <div class="masthead-content">
+      <div class="container">
+        <h1 class="masthead-heading mb-0">Frequently Asked Questions</h1>
+        <h2 class="masthead-subheading mb-0">More help? team@tristesse-records.com</h2>
+        <a href="submit.html" class="btn btn-primary btn-xl rounded-pill mt-5">Get Your Free License Today!</a>
+      </div>
+    </div>
+    <div class="bg-circle-1 bg-circle"></div>
+    <div class="bg-circle-2 bg-circle"></div>
+    <div class="bg-circle-3 bg-circle"></div>
+    <div class="bg-circle-4 bg-circle"></div>
+  </header>
+
+
+  <section>
+    <div class="container">
+      <div class="row align-items-center">
+        <div class="col-lg-6">
+          <div class="p-5">
+<p style="font-size:20px"><b>Listen to our 8D Radio Station ! <br>
+<br>
+Headphones required ! <3 </b>
+            </p>
+          
+          </div>
+        </div>
+        <div class="col-lg-6">
+    <p>
+    
+    
+    <script>(function (win, doc, script, source, objectName) { (win.RadionomyPlayerObject = win.RadionomyPlayerObject || []).push(objectName); win[objectName] = win[objectName] || function (k, v) { (win[objectName].parameters = win[objectName].parameters || { src: source, version: '1.1' })[k] = v; }; var js, rjs = doc.getElementsByTagName(script)[0]; js = doc.createElement(script); js.async = 1; js.src = source; rjs.parentNode.insertBefore(js, rjs); }(window, document, 'script', 'https://www.radionomy.com/js/radionomy.player.js', 'radplayer'));
+radplayer('url', 'best8daudiomusic');
+radplayer('type', 'medium');
+radplayer('autoplay', '0');
+radplayer('volume', '50');
+radplayer('color1', '#000000');
+radplayer('color2', '#ffffff');
+</script>
+<div class="radionomy-player"></div>
+
+    
+            </p>
+          
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  
+ 
+       <!--FEATURED ON, START-->
+      
+<br>
+<center>
+   <section>
+    <div class="container">
+     <div id="outer">
+  <div id="inner">  <h2 class="display-4">Featured on </h2></div>
+</div>
+      
+            <p></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</center>
+
+
+<center>
+   <section>
+    <div class="container">
+     <div id="outer">
+  <div id="inner">  <h2 class="display-4">
+ <a href="https://streamershaven.blog/public-service-annoucement/psa-safely-use-music-on-twitch-mixer-or-youtube/">     <img class="img-fluid rounded-circle" src="img/Streamershaven-625x-logo.png" alt="" style="width:312px;height:210px;"></a><br>
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Lora:400,700,400italic|Oswald:400,700" media="screen"> 
+
+ <a  style="text-decoration:none; color:inherit;" href="https://streamershaven.blog/public-service-annoucement/psa-safely-use-music-on-twitch-mixer-or-youtube/">
+<h1 style="font-family: 'Oswald'; font-size: 34px">STREAMER'S HAVEN</h1>
+    </a>
+          
+    <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400" media="screen"> 
+
+ <a href="https://streamershaven.blog/public-service-annoucement/psa-safely-use-music-on-twitch-mixer-or-youtube/"  style="text-decoration:none;">
+<h1 style="font-family: 'Montserrat';color: #d87b02; font-size: 24px;">Don't Chase Growth, <br> Chase Improvement.</h1>
+    
+    </a>
+    
+    
+    
+    </h2></div>
+</div>
+      
+            <p></p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</center>
+
+
+
+ <!--FEATURED ON, END-->
+
+  
+  
+    <!-- Footer -->
+  <footer class="py-5 bg-black">
+    <div class="container">
+      <p class="m-0 text-center text-white small">Copyright &copy; Tristesse-Records 2019, team@tristesse-records.com</p>
+    </div>
+    <!-- /.container -->
+  </footer>
+
+  <!-- Bootstrap core JavaScript -->
+  <script src="vendor/jquery/jquery.min.js"></script>
+  <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+</body>
+
+</html>
